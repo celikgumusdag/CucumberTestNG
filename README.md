@@ -2,7 +2,7 @@
 
 Description
 ------------
-Simple implementation of Cucumber automation by using Selenim with Java
+Simple implementation of Cucumber automation by using Selenium with Java
 
 About
 ------------
