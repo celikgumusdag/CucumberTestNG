@@ -1,9 +1,8 @@
 @testdiary2
 
-Feature: Kontrol Kontrol
+Feature: Example Test Feature 2
 
-
-  Scenario: lalala testdiary
+  Scenario: Exampe Test Scenario 2
     Given Kontrol given
     When kontrol when go
     Then kontrol then go
